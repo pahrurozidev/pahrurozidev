@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**pahrurozidev/pahrurozidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **pahrurozidev/pahrurozidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pahrurozidev&langs_count=8)](https://github.com/pahrurozidev/github-readme-stats)
