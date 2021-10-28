@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## Get In Touch
-
-<a href="https://www.linkedin.com/in/pahrurozi-deb-39b803211"><img src="https://hackernoon.com/images/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-cjw12i45.gif" align="left" height="52" width="52" ></a>
-
 <!-- **pahrurozidev/pahrurozidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
