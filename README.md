@@ -1,6 +1,6 @@
 ### Hi there i am Pahrurozi 👋
 
-Apapun yang anda pelajari kuncinya adalah anda harus bisa belajar mandiri, berkomitmen, benar benar punya rasa ingin tahu dan tertarik terhadap materi karena, sebagus dan sebaik apapun materinya tidak akan berguna tanpa keserisan anda untuk belajar, berlatih serta mencoba
+Apapun yang anda pelajari kuncinya adalah anda harus bisa belajar mandiri, berkomitmen, benar benar punya rasa ingin tahu dan tertarik terhadap materi karena, sebagus dan sebaik apapun materinya tidak akan berguna tanpa keserisan anda untuk belajar, berlatih serta mencoba.
 
 ~ Dicoding ~
 
