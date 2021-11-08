@@ -1,6 +1,6 @@
-### Hi there, i'm Pahrurozi 👋
+### Hi i'm Pahrurozi and this is Mount Rinjani 🌱
 
-<img src="https://source.unsplash.com/1600x900/?programming" />
+<img src="https://source.unsplash.com/1600x900/?rinjani" />
 
 <!-- 
 Apapun yang anda pelajari kuncinya adalah anda harus bisa belajar mandiri, berkomitmen, benar benar punya rasa ingin tahu dan tertarik terhadap materi karena, sebagus dan sebaik apapun materinya tidak akan berguna tanpa keserisan anda untuk belajar, berlatih serta mencoba.
