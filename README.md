@@ -1,28 +1,8 @@
 <!-- ### Hi i am Pahrurozi -->
 
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
-
-<img src="https://source.unsplash.com/1600x900/?rinjani" />
+<img src="https://source.unsplash.com/350x200/?rinjani" /><img src="https://source.unsplash.com/350x200/?mount" style="margin: 2em;"/><img src="https://source.unsplash.com/350x200/?mount" />
+<img src="https://source.unsplash.com/350x200/?lombok" /><img src="https://source.unsplash.com/350x200/?mount" />
+<img src="https://source.unsplash.com/350x200/?jungle" /><img src="https://source.unsplash.com/350x200/?mount" />
 
 
 <!-- 
