@@ -1,4 +1,4 @@
-### Hi i am Pahrurozi and this is Mount Rinjani 🌱
+### Hi i am Pahrurozi
 
 <img src="https://source.unsplash.com/1600x900/?rinjani" />
 
