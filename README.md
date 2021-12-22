@@ -1,9 +1,6 @@
 <!-- ### Hi i am Pahrurozi -->
 
-<img src="https://source.unsplash.com/350x200/?rinjani" /><img src="https://source.unsplash.com/350x200/?mount" style="margin: 2em;"/><img src="https://source.unsplash.com/350x200/?mount" />
-<img src="https://source.unsplash.com/350x200/?lombok" /><img src="https://source.unsplash.com/350x200/?mount" />
-<img src="https://source.unsplash.com/350x200/?jungle" /><img src="https://source.unsplash.com/350x200/?mount" />
-
+<!-- <img src="https://source.unsplash.com/350x200/?rinjani" /> -->
 
 <!-- 
 Apapun yang anda pelajari kuncinya adalah anda harus bisa belajar mandiri, berkomitmen, benar benar punya rasa ingin tahu dan tertarik terhadap materi karena, sebagus dan sebaik apapun materinya tidak akan berguna tanpa keserisan anda untuk belajar, berlatih serta mencoba.
