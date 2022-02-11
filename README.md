@@ -1,5 +1,15 @@
-<!-- ### Hi i am Pahrurozi -->
+# <h3>Languages & Tools:</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
+# <h3>Github Statistics:</h3>
 <p align="left">
  <a href="https://github.com/pahrurozidev">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pahrurozidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -7,24 +17,10 @@
  </a>
 </p>
 
-<!-- <img src="https://source.unsplash.com/350x200/?rinjani" /> -->
-
-<!-- 
-Apapun yang anda pelajari kuncinya adalah anda harus bisa belajar mandiri, berkomitmen, benar benar punya rasa ingin tahu dan tertarik terhadap materi karena, sebagus dan sebaik apapun materinya tidak akan berguna tanpa keserisan anda untuk belajar, berlatih serta mencoba.
-
-~ Dicoding ~
- -->
-<!-- **pahrurozidev/pahrurozidev** is a ✨ _special_ ✨ repository because its `READMHE.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pahrurozidev&langs_count=8)](https://github.com/pahrurozidev/github-readme-stats) -->
+# <h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/pahrurozi-39b803211/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+<a href="mailto:pahrurozi17@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a>
