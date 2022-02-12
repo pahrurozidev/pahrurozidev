@@ -20,8 +20,8 @@
 </p>
 
 # <h3>My Projects</h3>
-[<img src="https://img.shields.io/badge/My Galery-430098?style=for-the-badge&logo=heroku&logoColor=white">](http://mygalery.herokuapp.com/)
-
+[<img src="https://img.shields.io/badge/my galery-430098?style=for-the-badge&logo=heroku&logoColor=white">](http://mygalery.herokuapp.com/)
+[<img src="https://img.shields.io/badge/mm app-100000?style=for-the-badge&logo=github&logoColor=white" />](http://pahrurozidev.github.io/mmApp/)
 
 # <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/pahrurozi-39b803211/">
