@@ -20,7 +20,7 @@
 </p>
 
 # <h3>My Projects:</h3>
-- [My Galery](http://mygalery.herokuapp.com/)
+[<img src="https://img.shields.io/badge/My Galery-430098?style=for-the-badge&logo=heroku&logoColor=white">](http://mygalery.herokuapp.com/)
 
 
 # <h3>Connect with me:</h3>
