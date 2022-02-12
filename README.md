@@ -21,7 +21,7 @@
 </p>
 
 # <h3>My Projects:</h3>
-- [My Galery](https://mygalery.herokuapp.com/)
+- [My Galery](http://mygalery.herokuapp.com/)
 
 
 # <h3>Connect with me:</h3>
