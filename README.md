@@ -20,6 +20,10 @@
  </a>
 </p>
 
+# <h3>My Projects:</h3>
+- [My Galery](https://mygalery.herokuapp.com/)
+
+
 # <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/pahrurozi-39b803211/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
