@@ -1,4 +1,5 @@
-## Hi there, I'm Pahrurozi!👋🏻
+### About me :
+##### Hi there, I am Pahrurozi a student who is interested in the field of web development, I have been websites for about two year. Right now my focus is on building a website from the front-end & back-end development side.
 
 ### Languages & Tools :
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
