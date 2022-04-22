@@ -1,25 +1,56 @@
-### About me : 
-<p>Hi there, I am Pahrurozi a student who is interested in the field of web development, I have been websites for about two year. Right now my focus is on building a website from the front-end & back-end development side.</p>
+Hi 👋 My name is Pahrurozi
+==========================
 
-### Languages & Tools :
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+Student | Web Enthusiast
+------------------------
 
-### Github Statistics :
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=pahrurozidev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahrurozidev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+Hi there, I am Pahrurozi a student who is interested in the field of web development, I have been websites for about two year. Right now my focus is on building a website from the front-end & back-end development side.
 
-### My Projects :
-[<img src="https://img.shields.io/badge/my galery-430098?style=for-the-badge&logo=heroku&logoColor=white">](http://mygalery.herokuapp.com/)
-[<img src="https://img.shields.io/badge/mm app-100000?style=for-the-badge&logo=github&logoColor=white" />](http://pahrurozidev.github.io/mmApp/)
-[<img src="https://img.shields.io/badge/bookshelf app-100000?style=for-the-badge&logo=github&logoColor=white" />](https://pahrurozidev.github.io/bookshelf/)
-[<img src="https://img.shields.io/badge/mari mengaji-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://mari-mengaji.netlify.app/)
+* 🌍  I'm based in Lombok - West Nusa Tenggara
+* 🖥️  See my portfolio at [Pahrurozi](http://pahrurozidev.github.io)
+* ✉️  You can contact me at [https://www.linkedin.com/in/pahrurozi/](mailto:https://www.linkedin.com/in/pahrurozi/)
+* 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API
 
-### Connect with me :
-<a href="https://www.linkedin.com/in/pahrurozi-39b803211/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>
-<a href="mailto:pahrurozi17@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</a>
+<a href="https://www.github.com/pahrurozidev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/pahrurozidev?logo=github&style=for-the-badge&color=ef4444&labelColor=1e3a8a" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/pahrurozidev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pahrurozi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/pahrurozidev"><img src="https://github-readme-stats.vercel.app/api?username=pahrurozidev&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="pahrurozidev's GitHub stats" /></a>
+
+<a href="http://www.github.com/pahrurozidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pahrurozidev&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/pahrurozidev"><img src="https://activity-graph.herokuapp.com/graph?username=pahrurozidev&bg_color=1e3a8a&color=ffffff&line=ef4444&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/pahrurozidev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahrurozidev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/pahrurozidev/mariMengaji" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pahrurozidev&repo=mariMengaji&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/pahrurozidev/bookshelf" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pahrurozidev&repo=bookshelf&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/pahrurozidev/mmApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pahrurozidev&repo=mmApp&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
