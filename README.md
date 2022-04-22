@@ -53,4 +53,4 @@ src="https://img.shields.io/github/followers/pahrurozidev?logo=github&style=for-
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/pahrurozidev/mmApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pahrurozidev&repo=mmApp&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/pahrurozidev/mmApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pahrurozidev&repo=mmApp&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/pahrurozidev/pahrurozidev" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pahrurozidev&repo=pahrurozidev&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
