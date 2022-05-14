@@ -9,7 +9,7 @@ Hi there, I am Pahrurozi a student who is interested in the field of web develop
 * 🌍  I'm based in Lombok - West Nusa Tenggara
 * 🖥️  See my portfolio at [Pahrurozi](http://pahrurozidev.github.io)
 * ✉️  You can contact me at [Gmail](mailto:pahrurozi17@gmail.com)
-* 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API
+* 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API, DevOps
 
 <a href="https://www.github.com/pahrurozidev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pahrurozidev?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
