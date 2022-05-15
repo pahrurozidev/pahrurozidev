@@ -4,7 +4,7 @@ Hi 👋 My name is Pahrurozi
 Student | Web Enthusiast
 ------------------------
 
-Hi there, I am Pahrurozi a student who is interested in the field of web development, I have been websites for about two year. Right now my focus is on building a website from the front-end & back-end development side.
+I am Pahrurozi a student who is interested in the field of web development, I have been websites for about two year. Right now my focus is on building a website from the front-end & back-end development side.
 
 * 🌍  I'm based in Lombok - West Nusa Tenggara
 * 🖥️  See my portfolio at [Pahrurozi](http://pahrurozidev.github.io)
