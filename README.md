@@ -11,9 +11,6 @@ I am student who is interested in the field of web development, I have been webs
 * ✉️  You can contact me at [Gmail](mailto:pahrurozi17@gmail.com)
 * 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API, DevOps
 
-<a href="https://www.github.com/pahrurozidev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pahrurozidev?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
-
 ### Skills
 
 <p align="left">
