@@ -1,9 +1,9 @@
-<h1 align="center">Pahrurozi</h1
+_@pahrurozi_ | _Lombok_ | _Web Developer_
+
 Hi there!👋 Welcome to my profile. Nice to meet you! My name is Pahrurozi. I'm a web developer focused on creating great web experiences. Coding has been my passion since I started working with computers. I enjoy to create beautifully designed, intuitive and functional websites
 
 * 🌍  I'm based in Lombok - West Nusa Tenggara
-* 🖥️  See my port
-* folio at [Pahrurozi](http://pahrurozidev.github.io)
+* 🖥️  See my portfolio at [Pahrurozi](http://pahrurozidev.github.io)
 * ✉️  You can contact me at [Gmail](mailto:pahrurozi17@gmail.com)
 * 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API, DevOps
 
