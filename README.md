@@ -1,13 +1,9 @@
-Hi 👋 My name is Pahrurozi
-==========================
-
-Student | Web Enthusiast
-------------------------
-
-I am student who is interested in the field of web development, I have been websites for about two year. Right now my focus is on building a website from the front-end & back-end development side.
+### About me
+Hi there!👋 Welcome to my profile. Nice to meet you! My name is Pahrurozi. I'm a web developer focused on creating great web experiences. Coding has been my passion since I started working with computers. I enjoy to create beautifully designed, intuitive and functional websites
 
 * 🌍  I'm based in Lombok - West Nusa Tenggara
-* 🖥️  See my portfolio at [Pahrurozi](http://pahrurozidev.github.io)
+* 🖥️  See my port
+* folio at [Pahrurozi](http://pahrurozidev.github.io)
 * ✉️  You can contact me at [Gmail](mailto:pahrurozi17@gmail.com)
 * 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API, DevOps
 
