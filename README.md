@@ -5,7 +5,6 @@ Hi there!👋 Welcome to my profile. Nice to meet you! My name is Pahrurozi. I'm
 * 🌍  I'm based in Lombok - West Nusa Tenggara
 * 🖥️  See my portfolio at [Pahrurozi](http://pahrurozidev.github.io)
 * 🧠  I'm learning Javascript, Laravel Framework, Nodejs, Restful API, DevOps
-* 	
 
 ### Skills
 
