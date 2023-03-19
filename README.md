@@ -1,6 +1,6 @@
 _@pahrurozi_ | _Lombok_ | _Web Developer_
 
-Hi there!👋 Welcome to my profile. Nice to meet you! My name is Pahrurozi. I'm a web developer focused on creating great web experiences. Coding has been my passion since I started working with computers. I enjoy to create beautifully designed, intuitive and functional websites
+Hi there!👋 Welcome to my profile. Nice to meet you! My name is Pahrurozi. I'm a web developer focused on creating great web experiences. Coding has been my passion since I started working with computers. I enjoy to create beautifully designed, intuitive and functional websites.
 
 See more about me: <br/>
 [https://pahrurozidev.github.io](https://pahrurozidev.github.io)
