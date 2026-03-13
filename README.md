@@ -1,4 +1,4 @@
-_@pahrurozi_ | _Lombok_ | _Web Developer_
+_@pahrurozi_ | _Lombok_ | _Full-Stack Web Developer_
 
 Experienced web developer with a strong passion for creating exceptional web experiences. Skilled in designing and developing visually appealing, user-friendly websites.
 
